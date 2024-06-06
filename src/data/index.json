@@ -1,0 +1,135 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "IOT Development",
+      "description": "Proficient in IoT development, with a strong emphasis on integrating sensors, actuators, and microcontrollers into web and mobile applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-1.png",
+      "title": "IOT Network",
+      "description": "Skilled in designing and implementing mesh networks and gateway architectures for scalable IoT deployments, ensuring reliable connectivity and data transmission in diverse environments."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Cyber Security",
+      "description": "Proficient in implementing robust cybersecurity measures to protect IoT devices, networks, and data from potential threats and vulnerabilities."
+    },
+    {
+      "id": "4",
+      "src": "./img/tag-1.png",
+      "title": "Mechine Learning",
+      "description": "Skilled in preprocessing and feature engineering of IoT data streams, including data cleaning, normalization, and dimensionality reduction, to enhance the quality and relevance of input data for machine learning models."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-2.png",
+      "title": "Desktop Developer",
+      "description": " experience in developing responsive and user-friendly websites using Java in Netbeans"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Mobile Developer",
+      "description": "experience in developing mobile applications for both iOS and Android platforms using frameworks for example React Native and Flutter"
+    },
+    {
+      "id": "4",
+      "src": "./img/tag-1.png",
+      "title": "Web Developer",
+      "description": " experience in developing responsive and user-friendly websites using HTML, CSS, and JavaScript."
+    }
+ 
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "src": "./img/smarthomeapp.png",
+      "url": "https://muhammadrizky1023.github.io/smarthome/",
+      "title": "Samrthome WebApp",
+      "description": "smarthome web app for iot devices with flutter",
+      "link": "View In Github"
+    },
+    {
+      "id": 2,
+      "src": "./img/node-reddash.png",
+      "url": "https://wokwi.com/projects/370969624773397505",
+      "title": "ESP32 and servo with node-red dashboard",
+      "description": "C++, mqtt and node-red",
+      "link": "View In Github"
+    },
+  
+    {
+      "id": "3",
+      "src": "./img/bylikdash.png",
+      "url": "https://wokwi.com/projects/372772763577533441",
+      "title": "esp 32 and dht sensor with blynk platform",
+      "description": "C++, mqtt and Bylink",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/qrimg.png",
+      "url": "https://muhammadrizky1023.github.io/QRCodeGenerator/",
+      "title": "QR Code Generator",
+      "description": "Html, css",
+      "link": "View In Github"
+    },
+    {
+      "id": "5",
+      "src": "./img/student.png",
+      "url": "https://muhammadrizky1023.github.io/QRCodeGenerator/",
+      "title": "Dashboard Student Information",
+      "description": "Java",
+      "link": "View In Github"
+    },
+    {
+      "id": "6",
+      "src": "./img/bestpoin.png",
+      "url": "https://github.com/MuhammadRizky1023/bestpoint",
+      "title": "BestPoin",
+      "description": "Nodejs, Ejs, MongoDB",
+      "link": "View In Github"
+    },
+    {
+      "id": "7",
+      "src": "./img/predicted bitcoin.png",
+      "url": "https://github.com/MuhammadRizky1023/MyTensorFlow",
+      "title": "predicted  Bitcoin",
+      "description": "Jupyter NoteBook",
+      "link": "View In Github"
+    }
+ 
+    
+
+    
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "src": "./img/cyberblog.png",
+      "title": "Langkah Mudah untuk Meningkatkan Keamanan Online Anda",
+      "description": "10 Langkah Mudah untuk Meningkatkan Keamanan Online Anda",
+      "url": "https://medium.com/@republikdeveloper/10-langkah-mudah-untuk-meningkatkan-keamanan-online-anda-b1780952b3f4"
+    },
+    {
+      "id": "2",
+      "src": "./img/iotblog.png",
+      "title": "HTML",
+      "description": "Mengenal Jenis-Jenis Tag HTML dalam Pengembangan Web",
+      "url": "https://medium.com/@republikdeveloper/mengenal-internet-of-things-iot-menghubungkan-dunia-di-ujung-jari-anda-19d86b2ac0de"
+    },
+    {
+      "id": "3",
+      "src": "./img/cssblog.png",
+      "title": "CSS",
+      "description": "Mengenal Penggunaan CSS untuk Memperindah Tampilan Tag HTML",
+      "url": "https://medium.com/@republikdeveloper/mengenal-penggunaan-css-untuk-memperindah-tampilan-tag-html-87a59e8e29c4"
+    }
+    
+  ]
+
+}
