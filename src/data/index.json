@@ -1,0 +1,174 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description": "I am proficient in using frontend frameworks like React.js,nodejs to build dynamic web applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I am skilled in backend development using technologies such as Node.js, Express, and MongoDB to build scalable and robust server-side applications."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I have a strong understanding of UI/UX design principles and can create visually appealing interfaces that enhance user experience."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Web Development",
+      "description": " experience in developing responsive and user-friendly websites using HTML, CSS, and JavaScript."
+    },
+    {
+      "id": "5",
+      "src": "./img/product-chain-1.png",
+      "title": "Mobile Appp Development",
+      "description": "experience in developing mobile applications for both iOS and Android platforms using frameworks such as React Native and Flutter."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "src": "./img/draw.web.png",
+      "url": "https://muhammadrizky1023.github.io/draw/",
+      "title": "Draw Web",
+      "description": "html css javascript ",
+      "link": "View In Github"
+    },
+    {
+      "id": 2,
+      "src": "./img/money.png",
+      "url": "https://muhammadrizky1023.github.io/budget",
+      "title": "Budget Web",
+      "description": "html, css, javascript",
+      "link": "View In Github"
+    },
+    {
+      "id": 3,
+      "src": "./img/memorycard.png",
+      "url": "https://muhammadrizky1023.github.io/memorize/",
+      "title": "html, css, javascript",
+      "description": "html css javascript ",
+      "link": "View In Github"
+    },
+    {
+      "id": 4,
+      "src": "./img/hospital.png",
+      "url": "https://muhammadrizky1023.github.io/hospital/",
+      "title": "Hostipal Web",
+      "description": "html css javascript ",
+      "link": "View In Github"
+    },
+    {
+      "id": 5,
+      "src": "./img/gedget.png",
+      "url": "https://muhammadrizky1023.github.io/Gedget-shop/",
+      "title": "Gedget Shop",
+      "description": "React-vite, tailwindcss",
+      "link": "View In Github"
+    },
+    {
+      "id": 6,
+      "src": "./img/lol-pages.png",
+      "url": "  https://muhammadrizky1023.github.io/league-of-lagend-page/",
+      "title": "league-of-lagend-page",
+      "description": "React-vite, sass",
+      "link": "View In Github"
+    },
+    {
+      "id": 7,
+      "src": "./img/bestpoin.png",
+      "url": "https://github.com/MuhammadRizky1023/bestpoint",
+      "title": "BestPoin",
+      "description": "Nodejs, Ejs, MongoDB",
+      "link": "View In Github"
+    },
+    {
+      "id": 8,
+      "src": "./img/lead.png",
+      "url": "https://github.com/MuhammadRizky1023/leadadmin",
+      "title": "Dashboard",
+      "description": "Nodejs, Ejs, MongoDB",
+      "link": "View In Github"
+    },
+    {
+      "id": 8,
+      "src": "./img/3card.png",
+      "url": "https://muhammadrizky1023.github.io/3DCard/",
+      "title": "3D Card Games",
+      "description": "Html, css,",
+      "link": "View In Github"
+    },
+    {
+      "id": 9,
+      "src": "./img/qrcode.png",
+      "url": "https://muhammadrizky1023.github.io/QRCodeGenerator/",
+      "title": "QR Code Generator",
+      "description": "Html, css",
+      "link": "View In Github"
+    },
+    {
+      "id": 10,
+      "src": "./img/social.jpeg",
+      "url": "https://github.com/MuhammadRizky1023/kamidonasi",
+      "title": "Media Social",
+      "description": "Build Media Social APP with Android Studio, Kotlin, firebase",
+      "link": "View In Github"
+    },
+    {
+      "id": 11,
+      "src": "./img/student.png",
+      "url": "https://muhammadrizky1023.github.io/QRCodeGenerator/",
+      "title": "Dashboard Student Information",
+      "description": "Java",
+      "link": "View In Github"
+    },
+    {
+      "id": 12,
+      "src": "./img/donasi.jpeg",
+      "url": "https://github.com/MuhammadRizky1023/MyTensorFlow",
+      "title": "Donation Web",
+      "description": "Build Donation Web with laravel and firbease database",
+      "link": "View In Github"
+    },
+    {
+      "id": 13,
+      "src": "./img/currency.png",
+      "url": "https://muhammadrizky1023.github.io/currency-converter/",
+      "title": "Currency Converter",
+      "description": "Build Currency Converter with HTML,CSS,Javascript,and EXchange Rates API",
+      "link": "View In Github"
+    }
+    
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "src": "./img/medium.png",
+      "title": "JavaScript",
+      "description": "Memperdalam Pemahaman JavaScript: DOM, Synchronous, dan Asynchronous",
+      "url": "https://medium.com/@republikdeveloper/memperdalam-pemahaman-javascript-dom-synchronous-dan-asynchronous-b4b53c69bf19"
+    },
+    {
+      "id": "2",
+      "src": "./img/htmlblog.png",
+      "title": "HTML",
+      "description": "Mengenal Jenis-Jenis Tag HTML dalam Pengembangan Web",
+      "url": "https://medium.com/@republikdeveloper/mengenal-jenis-jenis-tag-html-dalam-pengembangan-web-2b51d8f6df72"
+    },
+    {
+      "id": "3",
+      "src": "./img/cssblog.png",
+      "title": "CSS",
+      "description": "Mengenal Penggunaan CSS untuk Memperindah Tampilan Tag HTML",
+      "url": "https://medium.com/@republikdeveloper/mengenal-penggunaan-css-untuk-memperindah-tampilan-tag-html-87a59e8e29c4"
+    }
+    
+  ]
+
+}
